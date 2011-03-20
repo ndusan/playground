@@ -6,6 +6,7 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Playground by Dusan Novakovic</title>
         <link href="/public/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/public/css/SyntaxHighlighter.css" type="text/css" />
     </head>
     <body>
         <div id="wrapper">

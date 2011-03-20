@@ -3,7 +3,7 @@
     <div class="post">
         <h2 class="title"><a href="/">Welcome to my Playground</a></h2>
 
-        <p class="meta"><span class="date">March 10, 2011</span><span class="posted">Posted by <a href="mailto:ndusan@gmail.com">Dušan Novaković</a></span></p>
+        <p class="meta"><span class="date">March 19, 2011</span><span class="posted">Posted by <a href="mailto:ndusan@gmail.com">Dušan Novaković</a></span></p>
         <div style="clear: both;">&nbsp;</div>
         <div class="entry">
             <p>
